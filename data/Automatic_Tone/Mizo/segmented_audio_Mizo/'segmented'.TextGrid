@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.26024614307303584 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.26024614307303584 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025 
+            text = "tlang" 
+        intervals [2]:
+            xmin = 0.025 
+            xmax = 0.2352461430730358 
+            text = "val" 
+        intervals [3]:
+            xmin = 0.2352461430730358 
+            xmax = 0.26024614307303584 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tones" 
+        xmin = 0 
+        xmax = 0.26024614307303584 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025 
+            text = "F" 
+        intervals [2]:
+            xmin = 0.025 
+            xmax = 0.2352461430730358 
+            text = "R" 
+        intervals [3]:
+            xmin = 0.2352461430730358 
+            xmax = 0.26024614307303584 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.26024614307303584 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025 
+            xmax = 0.2352461430730358 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.2352461430730358 
+            xmax = 0.26024614307303584 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.26024614307303584 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2352461430730358 
+            text = "bachelor" 
+        intervals [2]:
+            xmin = 0.2352461430730358 
+            xmax = 0.26024614307303584 
+            text = "" 

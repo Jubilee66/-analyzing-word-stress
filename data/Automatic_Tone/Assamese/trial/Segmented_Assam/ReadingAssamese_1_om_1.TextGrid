@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.3238326757858685 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.3238326757858685 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "ah" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.29883267578586814 
+            text = "om" 
+        intervals [3]:
+            xmin = 0.29883267578586814 
+            xmax = 0.3238326757858685 
+            text = "ut" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.3238326757858685 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.29883267578586814 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.29883267578586814 
+            xmax = 0.3238326757858685 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.3238326757858685 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.29883267578586814 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.29883267578586814 
+            xmax = 0.3238326757858685 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.3238326757858685 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29883267578586814 
+            text = "assam" 
+        intervals [2]:
+            xmin = 0.29883267578586814 
+            xmax = 0.3238326757858685 
+            text = "north" 

@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.416071084461322 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.416071084461322 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024508849171127167 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024508849171127167 
+            xmax = 0.39107108446131633 
+            text = "FIR" 
+        intervals [3]:
+            xmin = 0.39107108446131633 
+            xmax = 0.416071084461322 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.416071084461322 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.39107108446131633 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.39107108446131633 
+            xmax = 0.416071084461322 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.416071084461322 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.39107108446131633 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.39107108446131633 
+            xmax = 0.416071084461322 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.416071084461322 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.39107108446131633 
+            text = "FIR" 
+        intervals [3]:
+            xmin = 0.39107108446131633 
+            xmax = 0.416071084461322 
+            text = "" 

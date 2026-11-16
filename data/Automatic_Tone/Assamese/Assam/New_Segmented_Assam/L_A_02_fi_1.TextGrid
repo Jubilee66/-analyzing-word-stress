@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.13251809572292927 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.13251809572292927 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.10751809572292359 
+            text = "fi" 
+        intervals [3]:
+            xmin = 0.10751809572292359 
+            xmax = 0.13251809572292927 
+            text = "le" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.13251809572292927 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.10751809572292359 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.10751809572292359 
+            xmax = 0.13251809572292927 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.13251809572292927 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.10751809572292359 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.10751809572292359 
+            xmax = 0.13251809572292927 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.13251809572292927 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.13251809572292927 
+            text = "file" 

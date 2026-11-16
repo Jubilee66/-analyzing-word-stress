@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.2933334345461418 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.2933334345461418 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "ti" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2683334345461361 
+            text = "tu" 
+        intervals [3]:
+            xmin = 0.2683334345461361 
+            xmax = 0.2933334345461418 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.2933334345461418 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2683334345461361 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.2683334345461361 
+            xmax = 0.2933334345461418 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.2933334345461418 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2683334345461361 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.2683334345461361 
+            xmax = 0.2933334345461418 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.2933334345461418 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2683334345461361 
+            text = "livelihood" 
+        intervals [2]:
+            xmin = 0.2683334345461361 
+            xmax = 0.2933334345461418 
+            text = "" 

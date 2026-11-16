@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.19819508149713272 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.19819508149713272 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "mah" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.17319508149712703 
+            text = "ba" 
+        intervals [3]:
+            xmin = 0.17319508149712703 
+            xmax = 0.19819508149713272 
+            text = "li" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.19819508149713272 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "H" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.17319508149712703 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.17319508149712703 
+            xmax = 0.19819508149713272 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.19819508149713272 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.17319508149712703 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.17319508149712703 
+            xmax = 0.19819508149713272 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.19819508149713272 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "month" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.19819508149713272 
+            text = "sand" 

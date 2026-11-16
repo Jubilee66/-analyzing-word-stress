@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.1823747483217062 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.1823747483217062 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "off" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15737474832172893 
+            text = "en" 
+        intervals [3]:
+            xmin = 0.15737474832172893 
+            xmax = 0.1823747483217062 
+            text = "ce" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.1823747483217062 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15737474832172893 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.15737474832172893 
+            xmax = 0.1823747483217062 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.1823747483217062 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15737474832172893 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.15737474832172893 
+            xmax = 0.1823747483217062 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.1823747483217062 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1823747483217062 
+            text = "offence" 

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.35129194729151436 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.35129194729151436 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "si" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.3262919472915087 
+            text = "kar" 
+        intervals [3]:
+            xmin = 0.3262919472915087 
+            xmax = 0.35129194729151436 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.35129194729151436 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.3262919472915087 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.3262919472915087 
+            xmax = 0.35129194729151436 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.35129194729151436 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.3262919472915087 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.3262919472915087 
+            xmax = 0.35129194729151436 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.35129194729151436 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3262919472915087 
+            text = "hunter" 
+        intervals [2]:
+            xmin = 0.3262919472915087 
+            xmax = 0.35129194729151436 
+            text = "" 

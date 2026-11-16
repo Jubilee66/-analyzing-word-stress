@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.16491278173847768 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.16491278173847768 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "ho" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.13991278173847732 
+            text = "te" 
+        intervals [3]:
+            xmin = 0.13991278173847732 
+            xmax = 0.16491278173847768 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.16491278173847768 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "H" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.13991278173847732 
+            text = "F" 
+        intervals [3]:
+            xmin = 0.13991278173847732 
+            xmax = 0.16491278173847768 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.16491278173847768 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.13991278173847732 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.13991278173847732 
+            xmax = 0.16491278173847768 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.16491278173847768 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13991278173847732 
+            text = "gang" 
+        intervals [2]:
+            xmin = 0.13991278173847732 
+            xmax = 0.16491278173847768 
+            text = "" 

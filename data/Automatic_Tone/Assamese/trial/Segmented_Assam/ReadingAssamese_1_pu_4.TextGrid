@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.13372393630361756 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.13372393630361756 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "bhram" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.10872393630361898 
+            text = "pu" 
+        intervals [3]:
+            xmin = 0.10872393630361898 
+            xmax = 0.13372393630361756 
+            text = "tra" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.13372393630361756 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.10872393630361898 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.10872393630361898 
+            xmax = 0.13372393630361756 
+            text = "H" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.13372393630361756 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.10872393630361898 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.10872393630361898 
+            xmax = 0.13372393630361756 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.13372393630361756 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13372393630361756 
+            text = "bhramputra" 

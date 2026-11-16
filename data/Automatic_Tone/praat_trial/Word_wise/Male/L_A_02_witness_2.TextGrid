@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.44637855255456316 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.44637855255456316 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.22592120401782267 
+            text = "ha" 
+        intervals [3]:
+            xmin = 0.22592120401782267 
+            xmax = 0.4213785525545859 
+            text = "khi" 
+        intervals [4]:
+            xmin = 0.4213785525545859 
+            xmax = 0.44637855255456316 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.44637855255456316 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.22592120401782267 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.22592120401782267 
+            xmax = 0.4213785525545859 
+            text = "H" 
+        intervals [4]:
+            xmin = 0.4213785525545859 
+            xmax = 0.44637855255456316 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.44637855255456316 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.22592120401782267 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.22592120401782267 
+            xmax = 0.4213785525545859 
+            text = "S" 
+        intervals [4]:
+            xmin = 0.4213785525545859 
+            xmax = 0.44637855255456316 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.44637855255456316 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.4213785525545859 
+            text = "witness" 
+        intervals [3]:
+            xmin = 0.4213785525545859 
+            xmax = 0.44637855255456316 
+            text = "" 

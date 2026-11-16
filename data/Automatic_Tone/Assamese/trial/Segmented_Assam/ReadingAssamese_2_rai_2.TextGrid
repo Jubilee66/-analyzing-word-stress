@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.2873341283825255 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.2873341283825255 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "abh" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2623341283825198 
+            text = "rai" 
+        intervals [3]:
+            xmin = 0.2623341283825198 
+            xmax = 0.2873341283825255 
+            text = "noh" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.2873341283825255 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2623341283825198 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.2623341283825198 
+            xmax = 0.2873341283825255 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.2873341283825255 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.2623341283825198 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.2623341283825198 
+            xmax = 0.2873341283825255 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.2873341283825255 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2873341283825255 
+            text = "national park" 

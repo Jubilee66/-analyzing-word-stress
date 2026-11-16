@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.42119245266833616 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.42119245266833616 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "omt" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3961924526683376 
+            text = "sah" 
+        intervals [3]:
+            xmin = 0.3961924526683376 
+            xmax = 0.42119245266833616 
+            text = "ba" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.42119245266833616 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "H" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3961924526683376 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.3961924526683376 
+            xmax = 0.42119245266833616 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.42119245266833616 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3961924526683376 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.3961924526683376 
+            xmax = 0.42119245266833616 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.42119245266833616 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "assam" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3961924526683376 
+            text = "tea" 
+        intervals [3]:
+            xmin = 0.3961924526683376 
+            xmax = 0.42119245266833616 
+            text = "garden" 

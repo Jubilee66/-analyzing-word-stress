@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.2391508754994902 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.2391508754994902 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "pa" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.21415087549948453 
+            text = "radh" 
+        intervals [3]:
+            xmin = 0.21415087549948453 
+            xmax = 0.2391508754994902 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.2391508754994902 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.21415087549948453 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.21415087549948453 
+            xmax = 0.2391508754994902 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.2391508754994902 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.21415087549948453 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.21415087549948453 
+            xmax = 0.2391508754994902 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.2391508754994902 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21415087549948453 
+            text = "crime" 
+        intervals [2]:
+            xmin = 0.21415087549948453 
+            xmax = 0.2391508754994902 
+            text = "" 

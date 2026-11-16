@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.22405659112408216 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.22405659112408216 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "pro" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.19905659112407648 
+            text = "ai" 
+        intervals [3]:
+            xmin = 0.19905659112407648 
+            xmax = 0.22405659112408216 
+            text = "keh" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.22405659112408216 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.19905659112407648 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.19905659112407648 
+            xmax = 0.22405659112408216 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.22405659112408216 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.19905659112407648 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.19905659112407648 
+            xmax = 0.22405659112408216 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.22405659112408216 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22405659112408216 
+            text = "trial" 

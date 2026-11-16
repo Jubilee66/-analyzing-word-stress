@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.26633110817166994 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.26633110817166994 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "bon" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.24133110817166425 
+            text = "nan" 
+        intervals [3]:
+            xmin = 0.24133110817166425 
+            xmax = 0.26633110817166994 
+            text = "chal" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.26633110817166994 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.24133110817166425 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.24133110817166425 
+            xmax = 0.26633110817166994 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.26633110817166994 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.24133110817166425 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.24133110817166425 
+            xmax = 0.26633110817166994 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.26633110817166994 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26633110817166994 
+            text = "grassland" 

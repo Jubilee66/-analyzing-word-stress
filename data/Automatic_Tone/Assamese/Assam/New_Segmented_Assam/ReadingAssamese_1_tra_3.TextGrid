@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.1839054871715966 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.1839054871715966 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "pu" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.15890548717159803 
+            text = "tra" 
+        intervals [3]:
+            xmin = 0.15890548717159803 
+            xmax = 0.1839054871715966 
+            text = "ba" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.1839054871715966 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.15890548717159803 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.15890548717159803 
+            xmax = 0.1839054871715966 
+            text = "H" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.1839054871715966 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.15890548717159803 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.15890548717159803 
+            xmax = 0.1839054871715966 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.1839054871715966 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15890548717159803 
+            text = "bhramputra" 
+        intervals [2]:
+            xmin = 0.15890548717159803 
+            xmax = 0.1839054871715966 
+            text = "baba" 

@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.08982089652346303 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.08982089652346303 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "is" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.06482089652348577 
+            text = "tra" 
+        intervals [3]:
+            xmin = 0.06482089652348577 
+            xmax = 0.08982089652346303 
+            text = "te" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.08982089652346303 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.06482089652348577 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.06482089652348577 
+            xmax = 0.08982089652346303 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.08982089652346303 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.06482089652348577 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.06482089652348577 
+            xmax = 0.08982089652346303 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.08982089652346303 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08982089652346303 
+            text = "magistrate" 

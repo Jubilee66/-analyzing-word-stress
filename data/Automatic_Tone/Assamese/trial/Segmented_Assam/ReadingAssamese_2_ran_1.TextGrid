@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.23001173526839747 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.23001173526839747 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999991 
+            text = "zi" 
+        intervals [2]:
+            xmin = 0.02499999999999991 
+            xmax = 0.20501173526839755 
+            text = "ran" 
+        intervals [3]:
+            xmin = 0.20501173526839755 
+            xmax = 0.23001173526839747 
+            text = "ga" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.23001173526839747 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999991 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.02499999999999991 
+            xmax = 0.20501173526839755 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.20501173526839755 
+            xmax = 0.23001173526839747 
+            text = "H" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.23001173526839747 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999991 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.02499999999999991 
+            xmax = 0.20501173526839755 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.20501173526839755 
+            xmax = 0.23001173526839747 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.23001173526839747 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23001173526839747 
+            text = "kaziranga" 

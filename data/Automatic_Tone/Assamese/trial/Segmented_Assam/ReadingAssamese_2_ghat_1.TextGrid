@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.28154933741012655 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.28154933741012655 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "la" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.2565493374101262 
+            text = "ghat" 
+        intervals [3]:
+            xmin = 0.2565493374101262 
+            xmax = 0.28154933741012655 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.28154933741012655 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.2565493374101262 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.2565493374101262 
+            xmax = 0.28154933741012655 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.28154933741012655 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.2565493374101262 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.2565493374101262 
+            xmax = 0.28154933741012655 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.28154933741012655 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2565493374101262 
+            text = "golaghat" 
+        intervals [2]:
+            xmin = 0.2565493374101262 
+            xmax = 0.28154933741012655 
+            text = "" 

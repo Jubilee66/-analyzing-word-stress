@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.32040381329517587 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.32040381329517587 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "ha" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.2954038132951773 
+            text = "dhran" 
+        intervals [3]:
+            xmin = 0.2954038132951773 
+            xmax = 0.32040381329517587 
+            text = "sre" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.32040381329517587 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.2954038132951773 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.2954038132951773 
+            xmax = 0.32040381329517587 
+            text = "H" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.32040381329517587 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.2954038132951773 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.2954038132951773 
+            xmax = 0.32040381329517587 
+            text = "S" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.32040381329517587 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2954038132951773 
+            text = "normal" 
+        intervals [2]:
+            xmin = 0.2954038132951773 
+            xmax = 0.32040381329517587 
+            text = "category" 

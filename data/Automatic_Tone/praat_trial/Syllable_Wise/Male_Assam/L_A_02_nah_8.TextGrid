@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.1765330929171114 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.1765330929171114 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "to" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15153309291713413 
+            text = "nah" 
+        intervals [3]:
+            xmin = 0.15153309291713413 
+            xmax = 0.1765330929171114 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.1765330929171114 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15153309291713413 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.15153309291713413 
+            xmax = 0.1765330929171114 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.1765330929171114 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.15153309291713413 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.15153309291713413 
+            xmax = 0.1765330929171114 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.1765330929171114 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15153309291713413 
+            text = "incident" 
+        intervals [2]:
+            xmin = 0.15153309291713413 
+            xmax = 0.1765330929171114 
+            text = "" 

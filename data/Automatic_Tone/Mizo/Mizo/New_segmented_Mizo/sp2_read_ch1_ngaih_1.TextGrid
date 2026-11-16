@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.18682709196869496 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.18682709196869496 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "hma" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.16182709196868927 
+            text = "ngaih" 
+        intervals [3]:
+            xmin = 0.16182709196868927 
+            xmax = 0.18682709196869496 
+            text = "na" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tones" 
+        xmin = 0 
+        xmax = 0.18682709196869496 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "F" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.16182709196868927 
+            text = "F" 
+        intervals [3]:
+            xmin = 0.16182709196868927 
+            xmax = 0.18682709196869496 
+            text = "R" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.18682709196869496 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.16182709196868927 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.16182709196868927 
+            xmax = 0.18682709196869496 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.18682709196869496 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18682709196869496 
+            text = "love" 

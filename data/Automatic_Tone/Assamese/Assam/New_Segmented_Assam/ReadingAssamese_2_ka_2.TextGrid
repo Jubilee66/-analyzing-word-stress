@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.20987056209151422 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.20987056209151422 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.18487056209151387 
+            text = "ka" 
+        intervals [3]:
+            xmin = 0.18487056209151387 
+            xmax = 0.20987056209151422 
+            text = "zi" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.20987056209151422 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.18487056209151387 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.18487056209151387 
+            xmax = 0.20987056209151422 
+            text = "H" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.20987056209151422 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.18487056209151387 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.18487056209151387 
+            xmax = 0.20987056209151422 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.20987056209151422 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000000355 
+            text = "" 
+        intervals [2]:
+            xmin = 0.025000000000000355 
+            xmax = 0.20987056209151422 
+            text = "kaziranga" 

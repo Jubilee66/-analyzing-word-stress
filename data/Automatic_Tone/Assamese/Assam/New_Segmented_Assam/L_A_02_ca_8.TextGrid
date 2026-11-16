@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.13500071377609402 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.13500071377609402 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "der" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.11000071377611675 
+            text = "ca" 
+        intervals [3]:
+            xmin = 0.11000071377611675 
+            xmax = 0.13500071377609402 
+            text = "se" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.13500071377609402 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "H" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.11000071377611675 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.11000071377611675 
+            xmax = 0.13500071377609402 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.13500071377609402 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.11000071377611675 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.11000071377611675 
+            xmax = 0.13500071377609402 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.13500071377609402 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "murder" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.13500071377609402 
+            text = "case" 

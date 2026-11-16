@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.2706277630771865 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.2706277630771865 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "je" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.24562776307720924 
+            text = "har" 
+        intervals [3]:
+            xmin = 0.24562776307720924 
+            xmax = 0.2706277630771865 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.2706277630771865 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.24562776307720924 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.24562776307720924 
+            xmax = 0.2706277630771865 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.2706277630771865 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24562776307720924 
+            text = "FIR" 
+        intervals [2]:
+            xmin = 0.24562776307720924 
+            xmax = 0.2706277630771865 
+            text = "" 

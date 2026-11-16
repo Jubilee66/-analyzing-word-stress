@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.28215911426468665 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.28215911426468665 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "ui" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.25715911426468097 
+            text = "dan" 
+        intervals [3]:
+            xmin = 0.25715911426468097 
+            xmax = 0.28215911426468665 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.28215911426468665 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.25715911426468097 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.25715911426468097 
+            xmax = 0.28215911426468665 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.28215911426468665 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.025000000000005684 
+            text = "U" 
+        intervals [2]:
+            xmin = 0.025000000000005684 
+            xmax = 0.25715911426468097 
+            text = "S" 
+        intervals [3]:
+            xmin = 0.25715911426468097 
+            xmax = 0.28215911426468665 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.28215911426468665 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25715911426468097 
+            text = "garden" 
+        intervals [2]:
+            xmin = 0.25715911426468097 
+            xmax = 0.28215911426468665 
+            text = "" 

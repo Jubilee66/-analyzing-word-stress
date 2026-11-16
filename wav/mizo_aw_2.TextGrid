@@ -1,0 +1,880 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 246.57219954648525 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 246.57219954648525 
+        intervals: size = 125 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.0154749443824285 
+            text = "" 
+        intervals [2]:
+            xmin = 3.0154749443824285 
+            xmax = 3.231115723722833 
+            text = "rih" 
+        intervals [3]:
+            xmin = 3.231115723722833 
+            xmax = 3.4318332657386423 
+            text = "dil" 
+        intervals [4]:
+            xmin = 3.4318332657386423 
+            xmax = 3.7143959311674712 
+            text = "" 
+        intervals [5]:
+            xmin = 3.7143959311674712 
+            xmax = 3.867321559609806 
+            text = "cham" 
+        intervals [6]:
+            xmin = 3.867321559609806 
+            xmax = 4.0192511722248785 
+            text = "phai" 
+        intervals [7]:
+            xmin = 4.0192511722248785 
+            xmax = 6.582181936003187 
+            text = "" 
+        intervals [8]:
+            xmin = 6.582181936003187 
+            xmax = 6.688072272068238 
+            text = "myan" 
+        intervals [9]:
+            xmin = 6.688072272068238 
+            xmax = 6.833719069522788 
+            text = "mar" 
+        intervals [10]:
+            xmin = 6.833719069522788 
+            xmax = 7.1283704394429295 
+            text = "ram" 
+        intervals [11]:
+            xmin = 7.1283704394429295 
+            xmax = 7.42302180936307 
+            text = "chhung" 
+        intervals [12]:
+            xmin = 7.42302180936307 
+            xmax = 9.573059908641781 
+            text = "" 
+        intervals [13]:
+            xmin = 9.573059908641781 
+            xmax = 9.658999891535155 
+            text = "rih" 
+        intervals [14]:
+            xmin = 9.658999891535155 
+            xmax = 9.83482719085267 
+            text = "dil" 
+        intervals [15]:
+            xmin = 9.83482719085267 
+            xmax = 10.002103228984417 
+            text = "" 
+        intervals [16]:
+            xmin = 10.002103228984417 
+            xmax = 10.08343928422279 
+            text = "mi" 
+        intervals [17]:
+            xmin = 10.08343928422279 
+            xmax = 10.206210688356181 
+            text = "zo" 
+        intervals [18]:
+            xmin = 10.206210688356181 
+            xmax = 16.648910061600283 
+            text = "" 
+        intervals [19]:
+            xmin = 16.648910061600283 
+            xmax = 16.836136452903705 
+            text = "rih" 
+        intervals [20]:
+            xmin = 16.836136452903705 
+            xmax = 17.026432129310464 
+            text = "dil" 
+        intervals [21]:
+            xmin = 17.026432129310464 
+            xmax = 17.869319980681198 
+            text = "" 
+        intervals [22]:
+            xmin = 17.869319980681198 
+            xmax = 17.99822995502126 
+            text = "taw" 
+        intervals [23]:
+            xmin = 17.99822995502126 
+            xmax = 18.486246286451493 
+            text = "ka" 
+        intervals [24]:
+            xmin = 18.486246286451493 
+            xmax = 19.118519017738464 
+            text = "" 
+        intervals [25]:
+            xmin = 19.118519017738464 
+            xmax = 19.35178468559191 
+            text = "ang" 
+        intervals [26]:
+            xmin = 19.35178468559191 
+            xmax = 43.66028181309682 
+            text = "" 
+        intervals [27]:
+            xmin = 43.66028181309682 
+            xmax = 43.83830034909024 
+            text = "cham" 
+        intervals [28]:
+            xmin = 43.83830034909024 
+            xmax = 44.089981727563696 
+            text = "phai" 
+        intervals [29]:
+            xmin = 44.089981727563696 
+            xmax = 44.120239438776 
+            text = "" 
+        intervals [30]:
+            xmin = 44.120239438776 
+            xmax = 44.29825797476941 
+            text = "bawrh" 
+        intervals [31]:
+            xmin = 44.29825797476941 
+            xmax = 44.52538507241619 
+            text = "sap" 
+        intervals [32]:
+            xmin = 44.52538507241619 
+            xmax = 50.11515155918275 
+            text = "" 
+        intervals [33]:
+            xmin = 50.11515155918275 
+            xmax = 50.33307080151952 
+            text = "cham" 
+        intervals [34]:
+            xmin = 50.33307080151952 
+            xmax = 50.56633646937296 
+            text = "phai" 
+        intervals [35]:
+            xmin = 50.56633646937296 
+            xmax = 56.415966505293426 
+            text = "" 
+        intervals [36]:
+            xmin = 56.415966505293426 
+            xmax = 56.569430760460165 
+            text = "kung" 
+        intervals [37]:
+            xmin = 56.569430760460165 
+            xmax = 56.805765713416946 
+            text = "awrhi" 
+        intervals [38]:
+            xmin = 56.805765713416946 
+            xmax = 60.736797287348885 
+            text = "" 
+        intervals [39]:
+            xmin = 60.736797287348885 
+            xmax = 60.91174653823897 
+            text = "far" 
+        intervals [40]:
+            xmin = 60.91174653823897 
+            xmax = 61.13273506567908 
+            text = "kawn" 
+        intervals [41]:
+            xmin = 61.13273506567908 
+            xmax = 63.848764755225375 
+            text = "" 
+        intervals [42]:
+            xmin = 63.848764755225375 
+            xmax = 63.956189733842095 
+            text = "puk" 
+        intervals [43]:
+            xmin = 63.956189733842095 
+            xmax = 64.00018540991832 
+            text = "" 
+        intervals [44]:
+            xmin = 64.00018540991832 
+            xmax = 64.27642106921846 
+            text = "lian" 
+        intervals [45]:
+            xmin = 64.27642106921846 
+            xmax = 64.58978329887678 
+            text = "" 
+        intervals [46]:
+            xmin = 64.58978329887678 
+            xmax = 64.84453396245357 
+            text = "zau" 
+        intervals [47]:
+            xmin = 64.84453396245357 
+            xmax = 83.03666075366677 
+            text = "" 
+        intervals [48]:
+            xmin = 83.03666075366677 
+            xmax = 83.21467928966018 
+            text = "kung" 
+        intervals [49]:
+            xmin = 83.21467928966018 
+            xmax = 83.40804425117027 
+            text = "awrhu" 
+        intervals [50]:
+            xmin = 83.40804425117027 
+            xmax = 84.55245233160701 
+            text = "" 
+        intervals [51]:
+            xmin = 84.55245233160701 
+            xmax = 84.71512444208376 
+            text = "ram" 
+        intervals [52]:
+            xmin = 84.71512444208376 
+            xmax = 84.98522153117723 
+            text = "huai" 
+        intervals [53]:
+            xmin = 84.98522153117723 
+            xmax = 92.54664237511643 
+            text = "" 
+        intervals [54]:
+            xmin = 92.54664237511643 
+            xmax = 92.68169091966317 
+            text = "tha" 
+        intervals [55]:
+            xmin = 92.68169091966317 
+            xmax = 93.03772799165 
+            text = "siama" 
+        intervals [56]:
+            xmin = 93.03772799165 
+            xmax = 93.05614370227 
+            text = "" 
+        intervals [57]:
+            xmin = 93.05614370227 
+            xmax = 93.16356868088673 
+            text = "se" 
+        intervals [58]:
+            xmin = 93.16356868088673 
+            xmax = 93.34158721688014 
+            text = "no" 
+        intervals [59]:
+            xmin = 93.34158721688014 
+            xmax = 97.30725897537621 
+            text = "" 
+        intervals [60]:
+            xmin = 97.30725897537621 
+            xmax = 97.47300037095629 
+            text = "khawk" 
+        intervals [61]:
+            xmin = 97.47300037095629 
+            xmax = 97.72775103453307 
+            text = "rawk" 
+        intervals [62]:
+            xmin = 97.72775103453307 
+            xmax = 101.58205048088165 
+            text = "" 
+        intervals [63]:
+            xmin = 101.58205048088165 
+            xmax = 101.73551473604839 
+            text = "va" 
+        intervals [64]:
+            xmin = 101.73551473604839 
+            xmax = 102.10996751865522 
+            text = "phai" 
+        intervals [65]:
+            xmin = 102.10996751865522 
+            xmax = 102.1791002515813 
+            text = "" 
+        intervals [66]:
+            xmin = 102.1791002515813 
+            xmax = 102.29880237061137 
+            text = "khaw" 
+        intervals [67]:
+            xmin = 102.29880237061137 
+            xmax = 102.47682090660479 
+            text = "daia" 
+        intervals [68]:
+            xmin = 102.47682090660479 
+            xmax = 106.3827154236869 
+            text = "" 
+        intervals [69]:
+            xmin = 106.3827154236869 
+            xmax = 106.585288240507 
+            text = "tha" 
+        intervals [70]:
+            xmin = 106.585288240507 
+            xmax = 106.91063246146048 
+            text = "siama" 
+        intervals [71]:
+            xmin = 106.91063246146048 
+            xmax = 110.22883257606895 
+            text = "" 
+        intervals [72]:
+            xmin = 110.22883257606895 
+            xmax = 110.5326918012991 
+            text = "sial" 
+        intervals [73]:
+            xmin = 110.5326918012991 
+            xmax = 111.09437097520936 
+            text = "" 
+        intervals [74]:
+            xmin = 111.09437097520936 
+            xmax = 111.34605235368281 
+            text = "mi" 
+        intervals [75]:
+            xmin = 111.34605235368281 
+            xmax = 111.6100108725696 
+            text = "hring" 
+        intervals [76]:
+            xmin = 111.6100108725696 
+            xmax = 127.03203391663597 
+            text = "" 
+        intervals [77]:
+            xmin = 127.03203391663597 
+            xmax = 127.1762903164927 
+            text = "tha" 
+        intervals [78]:
+            xmin = 127.1762903164927 
+            xmax = 127.58450523523622 
+            text = "siama" 
+        intervals [79]:
+            xmin = 127.58450523523622 
+            xmax = 127.92826516680971 
+            text = "" 
+        intervals [80]:
+            xmin = 127.92826516680971 
+            xmax = 128.04796728583977 
+            text = "la" 
+        intervals [81]:
+            xmin = 128.04796728583977 
+            xmax = 128.41014292803325 
+            text = "si" 
+        intervals [82]:
+            xmin = 128.41014292803325 
+            xmax = 130.3772671756519 
+            text = "" 
+        intervals [83]:
+            xmin = 130.3772671756519 
+            xmax = 130.62894855412534 
+            text = "chawng " 
+        intervals [84]:
+            xmin = 130.62894855412534 
+            xmax = 130.83765994115208 
+            text = "tin " 
+        intervals [85]:
+            xmin = 130.83765994115208 
+            xmax = 131.0801334643155 
+            text = "leri" 
+        intervals [86]:
+            xmin = 131.0801334643155 
+            xmax = 146.03869458106456 
+            text = "" 
+        intervals [87]:
+            xmin = 146.03869458106456 
+            xmax = 146.299583814848 
+            text = "lam" 
+        intervals [88]:
+            xmin = 146.299583814848 
+            xmax = 146.70779873359152 
+            text = "siala" 
+        intervals [89]:
+            xmin = 146.70779873359152 
+            xmax = 147.24185434157172 
+            text = "" 
+        intervals [90]:
+            xmin = 147.24185434157172 
+            xmax = 147.37383360101512 
+            text = "far" 
+        intervals [91]:
+            xmin = 147.37383360101512 
+            xmax = 147.6285842645919 
+            text = "kawn" 
+        intervals [92]:
+            xmin = 147.6285842645919 
+            xmax = 147.93887733243307 
+            text = "" 
+        intervals [93]:
+            xmin = 147.93887733243307 
+            xmax = 148.08927230249648 
+            text = "cham" 
+        intervals [94]:
+            xmin = 148.08927230249648 
+            xmax = 148.3747158171066 
+            text = "phai" 
+        intervals [95]:
+            xmin = 148.3747158171066 
+            xmax = 150.76540140898544 
+            text = "" 
+        intervals [96]:
+            xmin = 150.76540140898544 
+            xmax = 150.9280735194622 
+            text = "puk" 
+        intervals [97]:
+            xmin = 150.9280735194622 
+            xmax = 150.95262780028887 
+            text = "" 
+        intervals [98]:
+            xmin = 150.95262780028887 
+            xmax = 151.16440847241896 
+            text = "lian" 
+        intervals [99]:
+            xmin = 151.16440847241896 
+            xmax = 151.34856557861903 
+            text = "tak" 
+        intervals [100]:
+            xmin = 151.34856557861903 
+            xmax = 166.02445707017083 
+            text = "" 
+        intervals [101]:
+            xmin = 166.02445707017083 
+            xmax = 166.13188204878753 
+            text = "pa" 
+        intervals [102]:
+            xmin = 166.13188204878753 
+            xmax = 166.5094041164977 
+            text = "saltha" 
+        intervals [103]:
+            xmin = 166.5094041164977 
+            xmax = 176.15765132708574 
+            text = "" 
+        intervals [104]:
+            xmin = 176.15765132708574 
+            xmax = 176.50448054376255 
+            text = "thlan" 
+        intervals [105]:
+            xmin = 176.50448054376255 
+            xmax = 187.68794700005571 
+            text = "" 
+        intervals [106]:
+            xmin = 187.68794700005571 
+            xmax = 187.7816802246117 
+            text = "in" 
+        intervals [107]:
+            xmin = 187.7816802246117 
+            xmax = 187.94504384455215 
+            text = "dia" 
+        intervals [108]:
+            xmin = 187.94504384455215 
+            xmax = 188.12179792514345 
+            text = "" 
+        intervals [109]:
+            xmin = 188.12179792514345 
+            xmax = 188.37219953931447 
+            text = "myan" 
+        intervals [110]:
+            xmin = 188.37219953931447 
+            xmax = 188.63063542987598 
+            text = "mar" 
+        intervals [111]:
+            xmin = 188.63063542987598 
+            xmax = 189.78024174941592 
+            text = "" 
+        intervals [112]:
+            xmin = 189.78024174941592 
+            xmax = 190.00118435015503 
+            text = "vang" 
+        intervals [113]:
+            xmin = 190.00118435015503 
+            xmax = 190.21275362843858 
+            text = "chhia" 
+        intervals [114]:
+            xmin = 190.21275362843858 
+            xmax = 194.5817516627347 
+            text = "" 
+        intervals [115]:
+            xmin = 194.5817516627347 
+            xmax = 194.76118383545617 
+            text = "lung" 
+        intervals [116]:
+            xmin = 194.76118383545617 
+            xmax = 194.99283880471597 
+            text = "" 
+        intervals [117]:
+            xmin = 194.99283880471597 
+            xmax = 195.21779854365036 
+            text = "mawi" 
+        intervals [118]:
+            xmin = 195.21779854365036 
+            xmax = 195.80214087253646 
+            text = "" 
+        intervals [119]:
+            xmin = 195.80214087253646 
+            xmax = 196.01504919688506 
+            text = "lian" 
+        intervals [120]:
+            xmin = 196.01504919688506 
+            xmax = 222.55480236494085 
+            text = "" 
+        intervals [121]:
+            xmin = 222.55480236494085 
+            xmax = 222.6632650962128 
+            text = "khaw" 
+        intervals [122]:
+            xmin = 222.6632650962128 
+            xmax = 222.80386493304678 
+            text = "pui" 
+        intervals [123]:
+            xmin = 222.80386493304678 
+            xmax = 224.66297575637904 
+            text = "" 
+        intervals [124]:
+            xmin = 224.66297575637904 
+            xmax = 224.95354875250263 
+            text = "lian" 
+        intervals [125]:
+            xmin = 224.95354875250263 
+            xmax = 246.57219954648525 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Glossary" 
+        xmin = 0 
+        xmax = 246.57219954648525 
+        intervals: size = 90 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.0154749443824285 
+            text = "  " 
+        intervals [2]:
+            xmin = 3.0154749443824285 
+            xmax = 3.4318332657386423 
+            text = "rih pond" 
+        intervals [3]:
+            xmin = 3.4318332657386423 
+            xmax = 3.7143959311674712 
+            text = "" 
+        intervals [4]:
+            xmin = 3.7143959311674712 
+            xmax = 4.0192511722248785 
+            text = "champhai" 
+        intervals [5]:
+            xmin = 4.0192511722248785 
+            xmax = 6.582181936003187 
+            text = "" 
+        intervals [6]:
+            xmin = 6.582181936003187 
+            xmax = 6.833719069522788 
+            text = "myanmar" 
+        intervals [7]:
+            xmin = 6.833719069522788 
+            xmax = 7.42302180936307 
+            text = "inside" 
+        intervals [8]:
+            xmin = 7.42302180936307 
+            xmax = 9.573059908641781 
+            text = "" 
+        intervals [9]:
+            xmin = 9.573059908641781 
+            xmax = 9.83482719085267 
+            text = "rihdil" 
+        intervals [10]:
+            xmin = 9.83482719085267 
+            xmax = 10.002103228984417 
+            text = "" 
+        intervals [11]:
+            xmin = 10.002103228984417 
+            xmax = 10.206210688356181 
+            text = "mizo" 
+        intervals [12]:
+            xmin = 10.206210688356181 
+            xmax = 16.648910061600283 
+            text = "" 
+        intervals [13]:
+            xmin = 16.648910061600283 
+            xmax = 17.026432129310464 
+            text = "rihdil" 
+        intervals [14]:
+            xmin = 17.026432129310464 
+            xmax = 17.869319980681198 
+            text = "" 
+        intervals [15]:
+            xmin = 17.869319980681198 
+            xmax = 18.486246286451493 
+            text = "heart shaped" 
+        intervals [16]:
+            xmin = 18.486246286451493 
+            xmax = 19.118519017738464 
+            text = "" 
+        intervals [17]:
+            xmin = 19.118519017738464 
+            xmax = 19.35178468559191 
+            text = "similar" 
+        intervals [18]:
+            xmin = 19.35178468559191 
+            xmax = 43.66028181309682 
+            text = "" 
+        intervals [19]:
+            xmin = 43.66028181309682 
+            xmax = 44.089981727563696 
+            text = "champhai" 
+        intervals [20]:
+            xmin = 44.089981727563696 
+            xmax = 44.120239438776 
+            text = "" 
+        intervals [21]:
+            xmin = 44.120239438776 
+            xmax = 44.522315787312856 
+            text = "deputy comissioner" 
+        intervals [22]:
+            xmin = 44.522315787312856 
+            xmax = 50.11515155918275 
+            text = "" 
+        intervals [23]:
+            xmin = 50.11515155918275 
+            xmax = 50.56633646937296 
+            text = "champhai" 
+        intervals [24]:
+            xmin = 50.56633646937296 
+            xmax = 56.415966505293426 
+            text = "" 
+        intervals [25]:
+            xmin = 56.415966505293426 
+            xmax = 56.805765713416946 
+            text = "kungawrhi" 
+        intervals [26]:
+            xmin = 56.805765713416946 
+            xmax = 60.736797287348885 
+            text = "" 
+        intervals [27]:
+            xmin = 60.736797287348885 
+            xmax = 61.13273506567908 
+            text = "farkawn" 
+        intervals [28]:
+            xmin = 61.13273506567908 
+            xmax = 63.848764755225375 
+            text = "" 
+        intervals [29]:
+            xmin = 63.848764755225375 
+            xmax = 63.956189733842095 
+            text = "caves" 
+        intervals [30]:
+            xmin = 63.956189733842095 
+            xmax = 64.00018540991832 
+            text = "" 
+        intervals [31]:
+            xmin = 64.00018540991832 
+            xmax = 64.27642106921846 
+            text = "big" 
+        intervals [32]:
+            xmin = 64.27642106921846 
+            xmax = 64.58978329887678 
+            text = "" 
+        intervals [33]:
+            xmin = 64.58978329887678 
+            xmax = 64.84453396245357 
+            text = "large" 
+        intervals [34]:
+            xmin = 64.84453396245357 
+            xmax = 83.03666075366677 
+            text = "" 
+        intervals [35]:
+            xmin = 83.03666075366677 
+            xmax = 83.40804425117027 
+            text = "kungawrhi" 
+        intervals [36]:
+            xmin = 83.40804425117027 
+            xmax = 84.55245233160701 
+            text = "" 
+        intervals [37]:
+            xmin = 84.55245233160701 
+            xmax = 84.98522153117723 
+            text = "ramhuai" 
+        intervals [38]:
+            xmin = 84.98522153117723 
+            xmax = 92.54664237511643 
+            text = "" 
+        intervals [39]:
+            xmin = 92.54664237511643 
+            xmax = 93.03772799165 
+            text = "thasiama" 
+        intervals [40]:
+            xmin = 93.03772799165 
+            xmax = 93.05614370227 
+            text = "" 
+        intervals [41]:
+            xmin = 93.05614370227 
+            xmax = 93.34158721688014 
+            text = "seno" 
+        intervals [42]:
+            xmin = 93.34158721688014 
+            xmax = 97.30725897537621 
+            text = "" 
+        intervals [43]:
+            xmin = 97.30725897537621 
+            xmax = 97.72775103453307 
+            text = "jagged" 
+        intervals [44]:
+            xmin = 97.72775103453307 
+            xmax = 101.58205048088165 
+            text = "" 
+        intervals [45]:
+            xmin = 101.58205048088165 
+            xmax = 102.10996751865522 
+            text = "vaphai" 
+        intervals [46]:
+            xmin = 102.10996751865522 
+            xmax = 102.1791002515813 
+            text = "" 
+        intervals [47]:
+            xmin = 102.1791002515813 
+            xmax = 102.47682090660479 
+            text = "khawdaia" 
+        intervals [48]:
+            xmin = 102.47682090660479 
+            xmax = 106.3827154236869 
+            text = "" 
+        intervals [49]:
+            xmin = 106.3827154236869 
+            xmax = 106.91063246146048 
+            text = "thasiama" 
+        intervals [50]:
+            xmin = 106.91063246146048 
+            xmax = 110.22883257606895 
+            text = "" 
+        intervals [51]:
+            xmin = 110.22883257606895 
+            xmax = 110.5326918012991 
+            text = "mithun" 
+        intervals [52]:
+            xmin = 110.5326918012991 
+            xmax = 111.09437097520936 
+            text = "" 
+        intervals [53]:
+            xmin = 111.09437097520936 
+            xmax = 111.6100108725696 
+            text = "human" 
+        intervals [54]:
+            xmin = 111.6100108725696 
+            xmax = 127.03203391663597 
+            text = "" 
+        intervals [55]:
+            xmin = 127.03203391663597 
+            xmax = 127.58450523523622 
+            text = "thasiama" 
+        intervals [56]:
+            xmin = 127.58450523523622 
+            xmax = 127.92826516680971 
+            text = "" 
+        intervals [57]:
+            xmin = 127.92826516680971 
+            xmax = 128.41014292803325 
+            text = "fairy" 
+        intervals [58]:
+            xmin = 128.41014292803325 
+            xmax = 130.3772671756519 
+            text = "" 
+        intervals [59]:
+            xmin = 130.3772671756519 
+            xmax = 131.0801334643155 
+            text = "chawngtinleri" 
+        intervals [60]:
+            xmin = 131.0801334643155 
+            xmax = 146.03869458106456 
+            text = " " 
+        intervals [61]:
+            xmin = 146.03869458106456 
+            xmax = 146.70779873359152 
+            text = "lamsiala" 
+        intervals [62]:
+            xmin = 146.70779873359152 
+            xmax = 147.24185434157172 
+            text = "" 
+        intervals [63]:
+            xmin = 147.24185434157172 
+            xmax = 147.6285842645919 
+            text = "farkawn" 
+        intervals [64]:
+            xmin = 147.6285842645919 
+            xmax = 147.93887733243307 
+            text = "" 
+        intervals [65]:
+            xmin = 147.93887733243307 
+            xmax = 148.3747158171066 
+            text = "champhai" 
+        intervals [66]:
+            xmin = 148.3747158171066 
+            xmax = 150.76540140898544 
+            text = "" 
+        intervals [67]:
+            xmin = 150.76540140898544 
+            xmax = 150.9280735194622 
+            text = "caves" 
+        intervals [68]:
+            xmin = 150.9280735194622 
+            xmax = 150.95262780028887 
+            text = "" 
+        intervals [69]:
+            xmin = 150.95262780028887 
+            xmax = 151.34856557861903 
+            text = "large" 
+        intervals [70]:
+            xmin = 151.34856557861903 
+            xmax = 166.02445707017083 
+            text = "" 
+        intervals [71]:
+            xmin = 166.02445707017083 
+            xmax = 166.5094041164977 
+            text = "heroes" 
+        intervals [72]:
+            xmin = 166.5094041164977 
+            xmax = 176.15765132708574 
+            text = "" 
+        intervals [73]:
+            xmin = 176.15765132708574 
+            xmax = 176.50448054376255 
+            text = "grave yard" 
+        intervals [74]:
+            xmin = 176.50448054376255 
+            xmax = 187.68794700005571 
+            text = "" 
+        intervals [75]:
+            xmin = 187.68794700005571 
+            xmax = 187.94504384455215 
+            text = "india" 
+        intervals [76]:
+            xmin = 187.94504384455215 
+            xmax = 188.12179792514345 
+            text = "" 
+        intervals [77]:
+            xmin = 188.12179792514345 
+            xmax = 188.63063542987598 
+            text = "myanmar" 
+        intervals [78]:
+            xmin = 188.63063542987598 
+            xmax = 189.78024174941592 
+            text = "" 
+        intervals [79]:
+            xmin = 189.78024174941592 
+            xmax = 190.21275362843858 
+            text = "vangchhia" 
+        intervals [80]:
+            xmin = 190.21275362843858 
+            xmax = 194.5817516627347 
+            text = "" 
+        intervals [81]:
+            xmin = 194.5817516627347 
+            xmax = 194.76118383545617 
+            text = "rock" 
+        intervals [82]:
+            xmin = 194.76118383545617 
+            xmax = 194.99283880471597 
+            text = "" 
+        intervals [83]:
+            xmin = 194.99283880471597 
+            xmax = 195.21779854365036 
+            text = "beautiful" 
+        intervals [84]:
+            xmin = 195.21779854365036 
+            xmax = 195.80214087253646 
+            text = "" 
+        intervals [85]:
+            xmin = 195.80214087253646 
+            xmax = 196.01504919688506 
+            text = "large" 
+        intervals [86]:
+            xmin = 196.01504919688506 
+            xmax = 222.55480236494085 
+            text = "" 
+        intervals [87]:
+            xmin = 222.55480236494085 
+            xmax = 222.80386493304678 
+            text = "city" 
+        intervals [88]:
+            xmin = 222.80386493304678 
+            xmax = 224.66297575637904 
+            text = "" 
+        intervals [89]:
+            xmin = 224.66297575637904 
+            xmax = 224.95354875250263 
+            text = "large" 
+        intervals [90]:
+            xmin = 224.95354875250263 
+            xmax = 246.57219954648525 
+            text = "" 

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.3578734844291951 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.3578734844291951 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "ras" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3328734844291965 
+            text = "tio" 
+        intervals [3]:
+            xmin = 0.3328734844291965 
+            xmax = 0.3578734844291951 
+            text = "ui" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.3578734844291951 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "L" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3328734844291965 
+            text = "H" 
+        intervals [3]:
+            xmin = 0.3328734844291965 
+            xmax = 0.3578734844291951 
+            text = "L" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.3578734844291951 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02499999999999858 
+            text = "S" 
+        intervals [2]:
+            xmin = 0.02499999999999858 
+            xmax = 0.3328734844291965 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.3328734844291965 
+            xmax = 0.3578734844291951 
+            text = "U" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "glossary" 
+        xmin = 0 
+        xmax = 0.3578734844291951 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3328734844291965 
+            text = "national" 
+        intervals [2]:
+            xmin = 0.3328734844291965 
+            xmax = 0.3578734844291951 
+            text = "park" 

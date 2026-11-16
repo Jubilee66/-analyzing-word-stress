@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.810476556237802 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 0.810476556237802 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.12234381785174264 
+            text = "in" 
+        intervals [3]:
+            xmin = 0.12234381785174264 
+            xmax = 0.2860360433632536 
+            text = "ves" 
+        intervals [4]:
+            xmin = 0.2860360433632536 
+            xmax = 0.38759691320615275 
+            text = "ti" 
+        intervals [5]:
+            xmin = 0.38759691320615275 
+            xmax = 0.5345614660377009 
+            text = "ga" 
+        intervals [6]:
+            xmin = 0.5345614660377009 
+            xmax = 0.7854765562378248 
+            text = "tion" 
+        intervals [7]:
+            xmin = 0.7854765562378248 
+            xmax = 0.810476556237802 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 0.810476556237802 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.12234381785174264 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.12234381785174264 
+            xmax = 0.2860360433632536 
+            text = "H" 
+        intervals [4]:
+            xmin = 0.2860360433632536 
+            xmax = 0.38759691320615275 
+            text = "L" 
+        intervals [5]:
+            xmin = 0.38759691320615275 
+            xmax = 0.5345614660377009 
+            text = "H" 
+        intervals [6]:
+            xmin = 0.5345614660377009 
+            xmax = 0.7854765562378248 
+            text = "H" 
+        intervals [7]:
+            xmin = 0.7854765562378248 
+            xmax = 0.810476556237802 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 0.810476556237802 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.12234381785174264 
+            text = "U" 
+        intervals [3]:
+            xmin = 0.12234381785174264 
+            xmax = 0.2860360433632536 
+            text = "S" 
+        intervals [4]:
+            xmin = 0.2860360433632536 
+            xmax = 0.38759691320615275 
+            text = "U" 
+        intervals [5]:
+            xmin = 0.38759691320615275 
+            xmax = 0.5345614660377009 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.5345614660377009 
+            xmax = 0.7854765562378248 
+            text = "S" 
+        intervals [7]:
+            xmin = 0.7854765562378248 
+            xmax = 0.810476556237802 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 0.810476556237802 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024999999999977263 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024999999999977263 
+            xmax = 0.7854765562378248 
+            text = "investigation" 
+        intervals [3]:
+            xmin = 0.7854765562378248 
+            xmax = 0.810476556237802 
+            text = "" 
