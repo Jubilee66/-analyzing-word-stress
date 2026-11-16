@@ -1,1 +1,0 @@
-Filename	phoneLabel	intensityMin	intensityMax	intensityAvg	intensityStdev	intensityRange	
